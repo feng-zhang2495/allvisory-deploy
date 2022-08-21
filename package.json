@@ -1,0 +1,24 @@
+{
+  "name": "allvisory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonqu/allvisory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonqu/allvisory/issues"
+  },
+  "homepage": "https://github.com/edisonqu/allvisory#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
